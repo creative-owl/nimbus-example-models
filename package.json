@@ -1,0 +1,20 @@
+{
+  "name": "@c8o/nimbus-example-models",
+  "version": "1.0.0",
+  "description": "Example model package",
+  "main": "index.js",
+  "scripts": {},
+  "author": {
+    "name" : "Jason Saayman",
+    "email" : "jasonsaayman@gmail.com",
+    "url" : "https://github.com/jasonsaayman"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/creative-owl/nimbus-example-models"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
